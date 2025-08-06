@@ -1,16 +1,16 @@
-## Hi there 👋
+# Lorenzo Colombani
 
-<!--
-**LorenzoColombani/LorenzoColombani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer based in Issy-les-Moulineaux, France, passionate about creating innovative solutions and exploring cutting-edge technologies. My main interests include full-stack development, cloud computing, and modern web frameworks. Find all my projects and contributions here.
 
-Here are some ideas to get you started:
+## Technologies & Skills
+- Web Development (JavaScript, React, Node.js)
+- Cloud Platforms (AWS, Azure)
+- Database Design & Management
+- DevOps & CI/CD
+- API Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Location
+📍 Issy-les-Moulineaux, France
+
+## Connect
+Explore my repositories to see my work in action and feel free to reach out for collaboration opportunities!
