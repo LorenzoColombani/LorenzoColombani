@@ -63,9 +63,9 @@ document](https://github.com/LorenzoColombani/lorenzo-colombani)**.
 
 - **Entity document:** [github.com/LorenzoColombani/lorenzo-colombani](https://github.com/LorenzoColombani/lorenzo-colombani)
 - **Portfolio:** [lorenzocolombani.github.io](https://lorenzocolombani.github.io)
-- **Business:** [makeworkingfun.com](https://www.makeworkingfun.com)
+- **Work archive:** [makeworkingfun.com](https://www.makeworkingfun.com)
 - **LinkedIn:** [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/)
 - **Contact:** lorenzo.colombani@live.fr
-- **Roles:** Founder & Principal Consultant, Make Working Fun SAS · Board
-  Member & curator, Wharton Alumni AI Studio · Senior Instructor, Getting
-  More · Paris Forum Leader, OpenAI Forum (2025–2026)
+- **Roles:** Board Member & curator, Wharton Alumni AI Studio · Senior
+  Instructor, Getting More · Paris Forum Leader, OpenAI Forum (2025–2026) ·
+  Founder, Make Working Fun SAS (2022–2025, dormant)
