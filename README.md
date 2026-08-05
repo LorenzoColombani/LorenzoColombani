@@ -27,6 +27,7 @@ finished it.
 | **tone-illusion** | Why text tone is misread — the research (Kruger, Epley et al.), interactive. | [Open](https://lorenzocolombani.github.io/tone-illusion/) |
 | **octalysis-explorer** | Yu-kai Chou's 8 core drives and 160+ gamification techniques, navigable. | [Open](https://lorenzocolombani.github.io/octalysis-explorer/) |
 | **The Bridge** | A 4½-minute hand-written WebGL cinematic — the portfolio piece that is also the proof of craft. | [Open](https://the-bridge-lc.netlify.app) |
+| **TVA Case File № L-1607** | A cinematic portfolio as a *Loki*-style case file: one person filed under seven headings, "filing error suspected." | [Open](https://tva-case-file-l1607.netlify.app) |
 
 ---
 
