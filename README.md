@@ -49,10 +49,11 @@ document](https://github.com/LorenzoColombani/lorenzo-colombani)**.
   regulation translated into button placement.
   [Medium](https://medium.com/@lorenzocolombani/digital-markets-act-a-practical-guide-to-interface-design-compliance-7c01d92cf3f8)
 - **The signature series** — a named framework from law or philosophy, turned
-  on a live technology situation: *Aristotle Was a Data Engineer* · *Is AI
-  Intelligent? Descartes Answered 4 Centuries Ago* · *He Died in 2021. He
-  Spoke in Court in 2025. Plato Objects.*
-  [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani)
+  on a live technology situation:
+  [*Aristotle Was a Data Engineer*](https://medium.com/@lorenzocolombani/aristotle-was-a-data-engineer-68937ee300b4)
+  · [*Is AI Intelligent? Descartes Answered 4 Centuries Ago*](https://medium.com/@lorenzocolombani/is-ai-intelligent-ren%C3%A9-descartes-answered-the-question-4-centuries-ago-03f2623cd6f1)
+  · [*He Died in 2021. He Spoke in Court in 2025. Plato Objects.*](https://medium.com/@lorenzocolombani/he-died-in-2021-he-spoke-in-court-in-2025-plato-objects-84c1376aca49)
+  — more at [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani)
 - Peer-reviewed work and the 2017 Villani-mission AI report: see the
   [entity document](https://github.com/LorenzoColombani/lorenzo-colombani).
 
