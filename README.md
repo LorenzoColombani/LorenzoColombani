@@ -23,9 +23,9 @@ finished it.
 |---|---|---|
 | **Data Vault Foundations** | 14 interactive chapters on Data Vault 2.1 — five of them regulatory (GDPR, the AI Act, a compliance self-test). 100+ exercises, gamification engine. | [Open](https://datavault-foundations.netlify.app) |
 | **"AI, Applied."** | 86 real AI use cases from 15 contributors — built and curated for the Wharton AI Studio community. | [Open](https://wharton-ai-use-cases.netlify.app) |
-| **exam-pacer** | Zero-dependency offline exam pacing timer. MIT licensed. | [Open](https://lorenzocolombani.github.io/exam-pacer/) |
-| **tone-illusion** | Why text tone is misread — the research (Kruger, Epley et al.), interactive. | [Open](https://lorenzocolombani.github.io/tone-illusion/) |
-| **octalysis-explorer** | Yu-kai Chou's 8 core drives and 160+ gamification techniques, navigable. | [Open](https://lorenzocolombani.github.io/octalysis-explorer/) |
+| **exam-pacer** | Zero-dependency offline exam pacing timer. MIT licensed. | [Open](https://lorenzocolombani.com/exam-pacer/) |
+| **tone-illusion** | Why text tone is misread — the research (Kruger, Epley et al.), interactive. | [Open](https://lorenzocolombani.com/tone-illusion/) |
+| **octalysis-explorer** | Yu-kai Chou's 8 core drives and 160+ gamification techniques, navigable. | [Open](https://lorenzocolombani.com/octalysis-explorer/) |
 | **The Bridge** | A 4½-minute hand-written WebGL cinematic — the portfolio piece that is also the proof of craft. | [Open](https://the-bridge-lc.netlify.app) |
 | **TVA Case File № L-1607** | A cinematic portfolio as a *Loki*-style case file: one person filed under seven headings, "filing error suspected." | [Open](https://tva-case-file-l1607.netlify.app) |
 
@@ -62,7 +62,7 @@ document](https://github.com/LorenzoColombani/lorenzo-colombani)**.
 ## Elsewhere
 
 - **Entity document:** [github.com/LorenzoColombani/lorenzo-colombani](https://github.com/LorenzoColombani/lorenzo-colombani)
-- **Portfolio:** [lorenzocolombani.github.io](https://lorenzocolombani.github.io)
+- **Portfolio:** [lorenzocolombani.com](https://lorenzocolombani.com)
 - **Work archive:** [makeworkingfun.com](https://www.makeworkingfun.com)
 - **LinkedIn:** [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/)
 - **Contact:** lorenzo.colombani@live.fr
