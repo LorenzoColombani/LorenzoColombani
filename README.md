@@ -21,6 +21,7 @@ finished it.
 
 | Instrument | What it is | Live |
 |---|---|---|
+| **Agency** | A native macOS app that runs Claude as a team of persistent, named teammates — each a resumable session with its own memory, permissions and sandbox, handing work to each other visibly. No API key; it rides the subscription. MIT. | [Repo](https://github.com/LorenzoColombani/agency) |
 | **Data Vault Foundations** | 14 interactive chapters on Data Vault 2.1 — five of them regulatory (GDPR, the AI Act, a compliance self-test). 100+ exercises, gamification engine. | [Open](https://datavault-foundations.netlify.app) |
 | **"AI, Applied."** | 86 real AI use cases from 15 contributors — built and curated for the Wharton AI Studio community. | [Open](https://wharton-ai-use-cases.netlify.app) |
 | **exam-pacer** | Zero-dependency offline exam pacing timer. MIT licensed. | [Open](https://lorenzocolombani.com/exam-pacer/) |
