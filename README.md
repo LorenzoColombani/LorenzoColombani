@@ -1,51 +1,42 @@
 # I make humans and machines intelligible to each other
 
-Certified Lawyer (France), court-appointed mediator at the Paris Court of
-Appeal, one of two Senior Instructors of Stuart Diamond's *Getting More*
-negotiation method, and builder of AI instruments. Hannover, Germany · working
-in English and French.
+AI product designer and developer — AI products, learning systems, interactive
+web experiences. Hannover, Germany · working in English and French.
 
-For fifteen years the job has had one shape: stand between two parties who
-don't share a language — lawyers and engineers, employers and employee
-representatives, humans and AI systems — and translate until the work moves.
-Today that means helping organizations turn what AI actually does into
-decisions their people can act on.
+Background in learning design (Chief Learning Officer at MCR until 2022), French
+law, court mediation and negotiation — which is why the products I build handle
+rules, incentives and trust.
 
-**The instruments below are the argument.** Every method I use ships as a
-working tool — if it can't be used without me in the room, I haven't
-finished it.
+I design the product and make the technical calls — architecture, stack,
+interactions — then direct AI coding tools that build to my spec. I review and
+test everything that ships. **The work below runs on the page:
+[lorenzocolombani.com](https://lorenzocolombani.com).**
 
 ---
 
-## Instruments
+## Selected work
 
-| Instrument | What it is | Live |
+| Work | What it is | Live |
 |---|---|---|
-| **Agency** | A native macOS app that runs Claude as a team of persistent, named teammates — each a resumable session with its own memory, permissions and sandbox, handing work to each other visibly. No API key; it rides the subscription. MIT. | [Repo](https://github.com/LorenzoColombani/agency) |
-| **Data Vault Foundations** | 14 interactive chapters on Data Vault 2.1 — five of them regulatory (GDPR, the AI Act, a compliance self-test). 100+ exercises, gamification engine. | [Open](https://datavault-foundations.netlify.app) |
-| **"AI, Applied."** | 86 real AI use cases from 15 contributors — built and curated for the Wharton AI Studio community. | [Open](https://wharton-ai-use-cases.netlify.app) |
-| **exam-pacer** | Zero-dependency offline exam pacing timer. MIT licensed. | [Open](https://lorenzocolombani.com/exam-pacer/) |
-| **tone-illusion** | Why text tone is misread — the research (Kruger, Epley et al.), interactive. | [Open](https://lorenzocolombani.com/tone-illusion/) |
-| **octalysis-explorer** | Yu-kai Chou's 8 core drives and 160+ gamification techniques, navigable. | [Open](https://lorenzocolombani.com/octalysis-explorer/) |
-| **The Bridge** | A 4½-minute hand-written WebGL cinematic — the portfolio piece that is also the proof of craft. | [Open](https://the-bridge-lc.netlify.app) |
-| **TVA Case File № L-1607** | A cinematic portfolio as a *Loki*-style case file: one person filed under seven headings, "filing error suspected." | [Open](https://tva-case-file-l1607.netlify.app) |
+| **OpenBots** (v0.5.0) | Claude as a team of persistent, named teammates — a native macOS app with durable local state, explicit approvals and six built-in characters. No API key; it rides the subscription. Swift 6, MIT. Preview build: the executor for consequential actions is disabled. | [Repo](https://github.com/LorenzoColombani/openbots) |
+| **Data Vault Foundations** | A 14-chapter interactive learning platform on Data Vault 2.1 — architecture, SQL, dbt, EU compliance, Python — with quests, feedback and hands-on exercises. | [Open](https://datavault-foundations.netlify.app) |
+| **TVA Case File** | A motion-and-typography case file in the language of the *Loki* title sequence: seven "deviations," one timeline, running in the browser. | [Open](https://tva-case-file-l1607.netlify.app) |
+| **"AI, Applied."** | 87 real-world AI use cases from 15 contributors, 94+ tools — convened the contributors and built the site for the Wharton Alumni AI Studio (an alumni nonprofit). Astro, React, GSAP. | [Open](https://wharton-ai-use-cases.netlify.app) |
+| **The Bridge** | An interactive web film — Three.js portals, GLSL, GSAP. A 4.5-minute proof that a method can be a place you walk through. Score: Kevin MacLeod. | [Open](https://the-bridge-lc.netlify.app) |
 
----
-
-## Six named working methods
-
-The Book→Instrument Pipeline · Evidence-Gated Agent Governance · The Phase-Zero
-Premise Check · Hard Law / Soft Law Mapping · Constitution → State → Output →
-Handoff · The Course Factory.
-
-Full method set, credentials, published work, client recommendations, and the
-complete verifiable record: **[the entity
-document](https://github.com/LorenzoColombani/lorenzo-colombani)**.
+Smaller tools, free and live: [exam-pacer](https://lorenzocolombani.com/exam-pacer/) ·
+[tone-illusion](https://lorenzocolombani.com/tone-illusion/) ·
+[octalysis-explorer](https://lorenzocolombani.com/octalysis-explorer/).
+Everything else — the full background, publications, credentials —
+is at [lorenzocolombani.com/background](https://lorenzocolombani.com/background/).
 
 ---
 
 ## Writing
 
+- **Keep It Secret, Keep It Safe, Cast It into the Fire** — engineering AI Act
+  data governance in a Data Vault, article by article (preprint, CC BY 4.0,
+  DOI 10.5281/zenodo.22255574).
 - **Digital Markets Act: A Practical Guide to Interface Design Compliance** —
   regulation translated into button placement.
   [Medium](https://medium.com/@lorenzocolombani/digital-markets-act-a-practical-guide-to-interface-design-compliance-7c01d92cf3f8)
@@ -55,18 +46,16 @@ document](https://github.com/LorenzoColombani/lorenzo-colombani)**.
   · [*Is AI Intelligent? Descartes Answered 4 Centuries Ago*](https://medium.com/@lorenzocolombani/is-ai-intelligent-ren%C3%A9-descartes-answered-the-question-4-centuries-ago-03f2623cd6f1)
   · [*He Died in 2021. He Spoke in Court in 2025. Plato Objects.*](https://medium.com/@lorenzocolombani/he-died-in-2021-he-spoke-in-court-in-2025-plato-objects-84c1376aca49)
   — more at [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani)
-- Peer-reviewed work and the 2017 Villani-mission AI report: see the
-  [entity document](https://github.com/LorenzoColombani/lorenzo-colombani).
 
 ---
 
 ## Elsewhere
 
-- **Entity document:** [github.com/LorenzoColombani/lorenzo-colombani](https://github.com/LorenzoColombani/lorenzo-colombani)
 - **Portfolio:** [lorenzocolombani.com](https://lorenzocolombani.com)
-- **Work archive:** [makeworkingfun.com](https://www.makeworkingfun.com)
 - **LinkedIn:** [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/)
+- **Work archive (2022–2026):** [makeworkingfun.com](https://www.makeworkingfun.com)
+- **Entity document:** [github.com/LorenzoColombani/lorenzo-colombani](https://github.com/LorenzoColombani/lorenzo-colombani)
 - **Contact:** lorenzo.colombani@live.fr
-- **Roles:** Board Member & curator, Wharton Alumni AI Studio · Senior
-  Instructor, Getting More · Paris Forum Leader, OpenAI Forum (2025–2026) ·
-  Founder, Make Working Fun SAS (2022–2025, dormant)
+- **Roles:** Board Member, Wharton Alumni AI Studio · Senior Instructor, Getting
+  More (one of three globally) · Community lead, Paris OpenAI Forum (2025–2026)
+  · Founder, Make Working Fun (2022–2026)
