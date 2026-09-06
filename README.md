@@ -46,12 +46,21 @@ is at [lorenzocolombani.com/background](https://lorenzocolombani.com/background/
   · [*Is AI Intelligent? Descartes Answered 4 Centuries Ago*](https://medium.com/@lorenzocolombani/is-ai-intelligent-ren%C3%A9-descartes-answered-the-question-4-centuries-ago-03f2623cd6f1)
   · [*He Died in 2021. He Spoke in Court in 2025. Plato Objects.*](https://medium.com/@lorenzocolombani/he-died-in-2021-he-spoke-in-court-in-2025-plato-objects-84c1376aca49)
   — more at [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani)
-- **On video** — [*I Built a Custom AI Voice Mode (And It Roasted My
-  Hardware)*](https://www.youtube.com/watch?v=HyRokjNdZvA): a spoken interface
-  for a command-line AI coding tool, a foot pedal in, spoken replies out
-  · the [*Aristotle*](https://www.youtube.com/watch?v=Lse7chQiTWc) companion
-  · the [Design Thinking Lifehacks](https://www.youtube.com/watch?v=-HdwA9NuxtQ)
-  series — all at [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani)
+---
+
+## Video
+
+- [**I Built a Custom AI Voice Mode (And It Roasted My Hardware)**](https://www.youtube.com/watch?v=HyRokjNdZvA)
+  (2026) — a spoken interface for a command-line AI coding tool: a foot pedal
+  in, spoken replies out, until the pedal lost to the mouse wheel.
+- [**A Demonstration of the 3D Data Vault Mechanism**](https://youtu.be/k6M3Icsbx6Q) —
+  a rendered 3D demonstration of how a Data Vault loads data.
+- [**Aristotle Was a Data Engineer**](https://www.youtube.com/watch?v=Lse7chQiTWc)
+  (2026) — the companion video to the article above.
+- [**Design Thinking Lifehacks**](https://www.youtube.com/watch?v=-HdwA9NuxtQ)
+  (2025) — a short series on everyday design in Don Norman's vocabulary:
+  signifiers, a place for everything, the push-pull door.
+- All videos: [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani)
 
 ---
 
