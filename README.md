@@ -46,6 +46,12 @@ is at [lorenzocolombani.com/background](https://lorenzocolombani.com/background/
   · [*Is AI Intelligent? Descartes Answered 4 Centuries Ago*](https://medium.com/@lorenzocolombani/is-ai-intelligent-ren%C3%A9-descartes-answered-the-question-4-centuries-ago-03f2623cd6f1)
   · [*He Died in 2021. He Spoke in Court in 2025. Plato Objects.*](https://medium.com/@lorenzocolombani/he-died-in-2021-he-spoke-in-court-in-2025-plato-objects-84c1376aca49)
   — more at [medium.com/@lorenzocolombani](https://medium.com/@lorenzocolombani)
+- **On video** — [*I Built a Custom AI Voice Mode (And It Roasted My
+  Hardware)*](https://www.youtube.com/watch?v=HyRokjNdZvA): a spoken interface
+  for a command-line AI coding tool, a foot pedal in, spoken replies out
+  · the [*Aristotle*](https://www.youtube.com/watch?v=Lse7chQiTWc) companion
+  · the [Design Thinking Lifehacks](https://www.youtube.com/watch?v=-HdwA9NuxtQ)
+  series — all at [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani)
 
 ---
 
@@ -53,6 +59,7 @@ is at [lorenzocolombani.com/background](https://lorenzocolombani.com/background/
 
 - **Portfolio:** [lorenzocolombani.com](https://lorenzocolombani.com)
 - **LinkedIn:** [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/)
+- **YouTube:** [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani) — the voice-mode build, the Aristotle companion, the design-thinking lifehacks
 - **Work archive (2022–2026):** [makeworkingfun.com](https://www.makeworkingfun.com)
 - **Entity document:** [github.com/LorenzoColombani/lorenzo-colombani](https://github.com/LorenzoColombani/lorenzo-colombani)
 - **Contact:** lorenzo.colombani@live.fr
