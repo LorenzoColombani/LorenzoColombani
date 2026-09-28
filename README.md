@@ -18,15 +18,25 @@ test everything that ships. **The work below runs on the page:
 
 | Work | What it is | Live |
 |---|---|---|
-| **OpenBots** (v0.5.0) | Claude as a team of persistent, named teammates — a native macOS app with durable local state, explicit approvals and six built-in characters. No API key; it rides the subscription. Swift 6, MIT. Preview build: the executor for consequential actions is disabled. | [Repo](https://github.com/LorenzoColombani/openbots) |
+| **The Workshop** (in progress) | A portfolio you walk into: a real-time 3D pavilion over the ocean, where the work opens when you touch it. Three.js. Unfinished, and open anyway. | [Case study](https://lorenzocolombani.com/work/the-workshop/) |
+| **OpenBots Next** (v1) | Claude as a team of named teammates you hire, brief and fence yourself — a native macOS app. Bots work in their own folders, search the web, run code, hand work to each other and use the Mac's apps; every consequential step waits on a card you approve. Your own Claude Pro or Max plan, no API key. Swift 6, MIT, free. | [Repo](https://github.com/LorenzoColombani/openbots) · [Video](https://youtu.be/oIXEZRL-zS4) |
 | **Data Vault Foundations** | A 14-chapter interactive learning platform on Data Vault 2.1 — architecture, SQL, dbt, EU compliance, Python — with quests, feedback and hands-on exercises. | [Open](https://datavault-foundations.netlify.app) |
 | **TVA Case File** | A motion-and-typography case file in the language of the *Loki* title sequence: seven "deviations," one timeline, running in the browser. | [Open](https://tva-case-file-l1607.netlify.app) |
 | **"AI, Applied."** | 87 real-world AI use cases from 15 contributors, 94+ tools — convened the contributors and built the site for the Wharton Alumni AI Studio (an alumni nonprofit). Astro, React, GSAP. | [Open](https://wharton-ai-use-cases.netlify.app) |
 | **The Bridge** | An interactive web film — Three.js portals, GLSL, GSAP. A 4.5-minute proof that a method can be a place you walk through. Score: Kevin MacLeod. | [Open](https://the-bridge-lc.netlify.app) |
 
+Also: [**SaberLab**](https://lorenzocolombani.com/work/saberlab/) — an app for a lightsaber you can reprogram: see everything on it, remix it into a new sound font, write it to the hilt (not released; [demo](https://www.youtube.com/watch?v=qYdvJwaupsE)).
+
 Smaller tools, free and live: [exam-pacer](https://lorenzocolombani.com/exam-pacer/) ·
 [tone-illusion](https://lorenzocolombani.com/tone-illusion/) ·
-[octalysis-explorer](https://lorenzocolombani.com/octalysis-explorer/).
+[octalysis-explorer](https://lorenzocolombani.com/octalysis-explorer/) ·
+[easy-local-llm-guide](https://lorenzocolombani.com/easy-local-llm-guide/) ·
+[text-readability-guide](https://lorenzocolombani.com/text-readability-guide/) ·
+[multicultural-hiring-guide](https://lorenzocolombani.com/multicultural-hiring-guide/) ·
+[ios-assistant-seniors](https://lorenzocolombani.com/ios-assistant-seniors/) (French) ·
+[star-wars-decluttering](https://lorenzocolombani.com/star-wars-decluttering/).
+
+The tools I build with: my own Claude Code skills — among them a pipeline that turns a design book into a tested skill (Norman, Octalysis, the Laws of UX) — and Claude Code driven by voice, from [a ring on my finger](https://www.youtube.com/watch?v=uz1sQgzz27o).
 Everything else — the full background, publications, credentials —
 is at [lorenzocolombani.com/background](https://lorenzocolombani.com/background/).
 
@@ -34,9 +44,12 @@ is at [lorenzocolombani.com/background](https://lorenzocolombani.com/background/
 
 ## Writing
 
-- **Keep It Secret, Keep It Safe, Cast It into the Fire** — engineering AI Act
-  data governance in a Data Vault, article by article (preprint, CC BY 4.0,
-  DOI 10.5281/zenodo.22255574).
+- **Keep It Secret, Keep It (in a) Safe, Then Cast It into the Fire: Engineering AI Act Data Governance** —
+  AI Act data governance in a Data Vault, article by article (preprint, CC BY 4.0,
+  [DOI 10.5281/zenodo.22255574](https://doi.org/10.5281/zenodo.22255574)).
+- **My AI Interview: How I Would Rebuild the AI Interviewer** — an AI interviewer
+  assessed my learning-design skills; I ended up coaching it.
+  [Medium](https://medium.com/@lorenzocolombani/my-ai-interview-how-i-would-rebuild-the-ai-interviewer-499e5d226b82)
 - **Digital Markets Act: A Practical Guide to Interface Design Compliance** —
   regulation translated into button placement.
   [Medium](https://medium.com/@lorenzocolombani/digital-markets-act-a-practical-guide-to-interface-design-compliance-7c01d92cf3f8)
@@ -50,6 +63,13 @@ is at [lorenzocolombani.com/background](https://lorenzocolombani.com/background/
 
 ## Video
 
+- [**OpenBots Next: the release video**](https://youtu.be/oIXEZRL-zS4) (2026) — the v1
+  launch: a team of AI bots on your own Claude plan, and a card before every
+  consequential step.
+- [**The Ring That Talks to My AI**](https://www.youtube.com/watch?v=uz1sQgzz27o) (2026) —
+  Claude Code driven from a ring: dictation in, spoken answers out.
+- [**I Went Way Too Far With My Lightsaber**](https://www.youtube.com/watch?v=qYdvJwaupsE)
+  (2026) — SaberLab, demonstrated on the real saber.
 - [**I Built a Custom AI Voice Mode (And It Roasted My Hardware)**](https://www.youtube.com/watch?v=HyRokjNdZvA)
   (2026) — a spoken interface for a command-line AI coding tool: a foot pedal
   in, spoken replies out, until the pedal lost to the mouse wheel.
@@ -68,7 +88,7 @@ is at [lorenzocolombani.com/background](https://lorenzocolombani.com/background/
 
 - **Portfolio:** [lorenzocolombani.com](https://lorenzocolombani.com)
 - **LinkedIn:** [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/)
-- **YouTube:** [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani) — the voice-mode build, the Aristotle companion, the design-thinking lifehacks
+- **YouTube:** [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani) — the OpenBots Next release, SaberLab, the voice rig, the Aristotle companion, the design-thinking lifehacks
 - **Work archive (2022–2026):** [makeworkingfun.com](https://www.makeworkingfun.com)
 - **Entity document:** [github.com/LorenzoColombani/lorenzo-colombani](https://github.com/LorenzoColombani/lorenzo-colombani)
 - **Contact:** lorenzo.colombani@live.fr
