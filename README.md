@@ -1,16 +1,18 @@
 # I make humans and machines intelligible to each other
 
-AI product designer and developer — AI products, learning systems, interactive
-web experiences. Hannover, Germany · working in English and French.
+AI trainer and product builder. I help people and teams put AI to work on real
+tasks, and build custom tools when they need more. For clients in France and
+internationally, online, in English or French.
 
-Background in learning design (Chief Learning Officer at MCR until 2022), French
-law, court mediation and negotiation — which is why the products I build handle
-rules, incentives and trust.
+Background in learning design (Chief Learning Officer at MCR Groupe, 50+
+training sessions), teaching at ESCP Business School, French law and court
+mediation — which is why I teach AI with the checks built in.
 
-I design the product and make the technical calls — architecture, stack,
-interactions — then direct AI coding tools that build to my spec. I review and
-test everything that ships. **The work below runs on the page:
-[lorenzocolombani.com](https://lorenzocolombani.com).**
+When I build, I design the product and make the technical calls — architecture,
+stack, interactions — then direct AI coding tools that build to my spec. I
+review and test everything that ships. **Offers and a free 30-minute call:
+[lorenzocolombani.com](https://lorenzocolombani.com).** The work below is in the
+[Showroom](https://lorenzocolombani.com/portfolio/).
 
 ---
 
@@ -18,14 +20,14 @@ test everything that ships. **The work below runs on the page:
 
 | Work | What it is | Live |
 |---|---|---|
-| **The Workshop** (in progress) | A portfolio you walk into: a real-time 3D pavilion over the ocean, where the work opens when you touch it. Three.js. Unfinished, and open anyway. | [Case study](https://lorenzocolombani.com/work/the-workshop/) |
+| **The Workshop** (in progress) | A portfolio you walk into: a real-time 3D pavilion over the ocean, where the work opens when you touch it. Three.js. Unfinished, and open anyway. | [Case study](https://lorenzocolombani.com/portfolio/works/the-workshop.html) |
 | **OpenBots Next** (v1) | Claude as a team of named teammates you hire, brief and fence yourself — a native macOS app. Bots work in their own folders, search the web, run code, hand work to each other and use the Mac's apps; every consequential step waits on a card you approve. Your own Claude Pro or Max plan, no API key. Swift 6, MIT, free. | [Repo](https://github.com/LorenzoColombani/openbots) · [Video](https://youtu.be/oIXEZRL-zS4) |
 | **Data Vault Foundations** | A 14-chapter interactive learning platform on Data Vault 2.1 — architecture, SQL, dbt, EU compliance, Python — with quests, feedback and hands-on exercises. | [Open](https://datavault-foundations.netlify.app) |
 | **TVA Case File** | A motion-and-typography case file in the language of the *Loki* title sequence: seven "deviations," one timeline, running in the browser. | [Open](https://tva-case-file-l1607.netlify.app) |
 | **"AI, Applied."** | 87 real-world AI use cases from 15 contributors, 94+ tools — convened the contributors and built the site for the Wharton Alumni AI Studio (an alumni nonprofit). Astro, React, GSAP. | [Open](https://wharton-ai-use-cases.netlify.app) |
 | **The Bridge** | An interactive web film — Three.js portals, GLSL, GSAP. A 4.5-minute proof that a method can be a place you walk through. Score: Kevin MacLeod. | [Open](https://the-bridge-lc.netlify.app) |
 
-Also: [**SaberLab**](https://lorenzocolombani.com/work/saberlab/) — an app for a lightsaber you can reprogram: see everything on it, remix it into a new sound font, write it to the hilt (not released; [demo](https://www.youtube.com/watch?v=qYdvJwaupsE)).
+Also: [**SaberLab**](https://lorenzocolombani.com/portfolio/works/saberlab.html) — an app for a lightsaber you can reprogram: see everything on it, remix it into a new sound font, write it to the hilt (not released; [demo](https://www.youtube.com/watch?v=qYdvJwaupsE)).
 
 Smaller tools, free and live: [exam-pacer](https://lorenzocolombani.com/exam-pacer/) ·
 [tone-illusion](https://lorenzocolombani.com/tone-illusion/) ·
@@ -86,12 +88,12 @@ is at [lorenzocolombani.com/background](https://lorenzocolombani.com/background/
 
 ## Elsewhere
 
-- **Portfolio:** [lorenzocolombani.com](https://lorenzocolombani.com)
+- **Store:** [lorenzocolombani.com](https://lorenzocolombani.com) — AI coaching, team training & custom tools · [Showroom](https://lorenzocolombani.com/portfolio/)
 - **LinkedIn:** [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/)
 - **YouTube:** [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani) — the OpenBots Next release, SaberLab, the voice rig, the Aristotle companion, the design-thinking lifehacks
 - **Work archive (2022–2026):** [makeworkingfun.com](https://www.makeworkingfun.com)
 - **Entity document:** [github.com/LorenzoColombani/lorenzo-colombani](https://github.com/LorenzoColombani/lorenzo-colombani)
 - **Contact:** lorenzo.colombani@live.fr
-- **Roles:** Board Member, Wharton Alumni AI Studio · Senior Instructor, Getting
+- **Roles:** Board Member, Wharton Alumni AI Studio (2025–2026) · Senior Instructor, Getting
   More (one of three globally) · Community lead, Paris OpenAI Forum (2025–2026)
   · Founder, Make Working Fun (2022–2026)
