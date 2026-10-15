@@ -1,16 +1,18 @@
 # I make humans and machines intelligible to each other
 
-AI trainer and product builder. I help people and teams put AI to work on real
-tasks, and build custom tools when they need more. For clients in France and
+Designer & Developer · AI Enablement. I'm an AI product designer and developer: I
+help people learn to use AI, businesses put it into practice, and individuals and
+teams delegate work to automations and AI agents. For clients in France and
 internationally, online, in English or French.
 
 Background in learning design (Chief Learning Officer at MCR Groupe, 50+
 training sessions), teaching at ESCP Business School, French law and court
-mediation — which is why I teach AI with the checks built in.
+mediation — which is why the products I build handle rules, incentives and trust.
 
 When I build, I design the product and make the technical calls — architecture,
 stack, interactions — then direct AI coding tools that build to my spec. I
-review and test everything that ships. **Offers and a free 30-minute call:
+review and test everything that ships. **Three ways to work together — learn to
+use AI, AI for businesses, automation and AI agents:
 [lorenzocolombani.com](https://lorenzocolombani.com).** The work below is in the
 [Showroom](https://lorenzocolombani.com/portfolio/).
 
@@ -88,7 +90,7 @@ is at [lorenzocolombani.com/background](https://lorenzocolombani.com/background/
 
 ## Elsewhere
 
-- **Store:** [lorenzocolombani.com](https://lorenzocolombani.com) — AI coaching, team training & custom tools · [Showroom](https://lorenzocolombani.com/portfolio/)
+- **Site:** [lorenzocolombani.com](https://lorenzocolombani.com) — AI Enablement: learn to use AI, AI for businesses, automation and AI agents · [Showroom](https://lorenzocolombani.com/portfolio/)
 - **LinkedIn:** [linkedin.com/in/locolombani](https://www.linkedin.com/in/locolombani/)
 - **YouTube:** [youtube.com/@LorenzoColombani](https://www.youtube.com/@LorenzoColombani) — the OpenBots Next release, SaberLab, the voice rig, the Aristotle companion, the design-thinking lifehacks
 - **Work archive (2022–2026):** [makeworkingfun.com](https://www.makeworkingfun.com)
